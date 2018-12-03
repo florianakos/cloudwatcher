@@ -10,7 +10,7 @@ fmt.Println(cloudwatcher.GetMetricData("eu-central-1", "i-08b39fb1d301c6cf9"))
 
 ### Example output: ###
 
-```json
+```go
 {
   MetricDataResults: [{
       Id: "id1",
