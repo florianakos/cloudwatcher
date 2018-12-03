@@ -5,7 +5,7 @@ This is a simple Go library that wraps the "AWS GO SDK" library to provide a way
 ### Example Usage: ###
 
 ```go
-fmt.Println(cloudwatcher.GetMetricData("eu-central-1", "i-08b39fb1d301c6cf9"))
+fmt.Println(cloudwatcher.GetMetricData("aws_region", "your_instance_ID"))
 ```
 
 ### Example output: ###
