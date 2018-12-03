@@ -1,5 +1,7 @@
 ## AWS CloudWatcher Library ##
 
+![GO-Badge](https://goreportcard.com/badge/github.com/florianakos/cloudwatcher)
+
 This is a simple Go library that wraps the "AWS GO SDK" library to provide a way to query AWS Cloudwatch metrics from EC2 instances.
 
 ### Example Usage: ###
